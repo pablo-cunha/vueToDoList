@@ -61,7 +61,7 @@ export default {
       editedTask: null,
       statuses: ['pendente', 'em progresso', 'finalizado'],
       tasks: [{
-        name: 'Roubar bananas.',
+        name: 'Hospedar portfolio.',
         status: 'pendente'
       },
       {
