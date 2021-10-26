@@ -35,12 +35,12 @@
               </td>
               <td>
                 <div class="text-center" @click="editTask(index)">
-                    <span class="fa fa-pen"></span>
+                    <span class="fa fa-pen pointer"></span>
                 </div>
               </td>
               <td>
                 <div class="text-center" @click="deleteTask(index)">
-                    <span class="fa fa-trash"></span>
+                    <span class="fa fa-trash pointer"></span>
                 </div>
               </td>
             </tr>
